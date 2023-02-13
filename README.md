@@ -1,7 +1,9 @@
 # Mostafa Mohammadian
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mostafam_91)](https://twitter.com/mostafam_91)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=flat&logoWidth=20)](https://scholar.google.com/citations?user=YTM2YAwAAAAJ&hl=en)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=onboarding-landing)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mostafa.mohammadian@colorado.edu)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/m-mohammadian)
+[![Github](https://img.shields.io/github/followers/m-mohammadian?label=Follow&style=social)](https://github.com/m-mohammadian)
 
 - 🔭 I’m currently working on application of machine learning in power system challenges
 - 📫 How to reach me: mostafa.mohammadian@colorado.edu
