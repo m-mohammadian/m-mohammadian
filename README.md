@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mostafa.mohammadian@colorado.edu)
 [![Github](https://img.shields.io/github/followers/m-mohammadian?label=Follow&style=social)](https://github.com/m-mohammadian)
 
+Ph.D., Civil systems in GRid-Interactive Frameworks For Intelligent iNfrastructure (GRIFFIN) Laboratory at <a href="http://www.kyrib.com/team.html">University of Colorado, Boulder</a>
 - 🔭 I’m currently working on application of machine learning in power system challenges
 - 📫 How to reach me: mostafa.mohammadian@colorado.edu
 
